@@ -1,0 +1,213 @@
+{
+  "type": "bubble",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "กิจกรรมที่ 1",
+        "size": "lg",
+        "align": "center",
+        "gravity": "center",
+        "weight": "bold"
+      }
+    ],
+    "paddingAll": "sm"
+  },
+  "hero": {
+    "type": "image",
+    "url": "https://i.postimg.cc/P5rHygpP/2567-11-13-02-49-34.png",
+    "size": "full",
+    "animated": false,
+    "aspectMode": "fit",
+    "aspectRatio": "20:14.5"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "image",
+                        "url": "https://i.postimg.cc/8zZSYNxq/twitter12.png",
+                        "aspectMode": "fit",
+                        "aspectRatio": "4:3",
+                        "align": "start"
+                      }
+                    ],
+                    "paddingAll": "none",
+                    "paddingTop": "none",
+                    "paddingStart": "none",
+                    "paddingEnd": "none",
+                    "paddingBottom": "none"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "ทำกิจกรรมใน twitter"
+                      },
+                      {
+                        "type": "separator"
+                      },
+                      {
+                        "type": "text",
+                        "text": "กดรีทวิต ♻️ + กดหัวใจ ❤️"
+                      },
+                      {
+                        "type": "separator"
+                      },
+                      {
+                        "type": "text",
+                        "text": "คอมเมนต์ : #เครดิตฟรี"
+                      }
+                    ],
+                    "flex": 2
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "จากโพสต์ด้านล่าง 5 โพสต์",
+                    "align": "center"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "โพสต์ที่ 1 คลิก →",
+                        "weight": "bold",
+                        "align": "center",
+                        "gravity": "center",
+                        "offsetStart": "none",
+                        "color": "#3399ff"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "โพสต์ที่ 2 คลิก →",
+                        "weight": "bold",
+                        "align": "center",
+                        "gravity": "center",
+                        "color": "#3399ff"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "โพสต์ที่ 3 คลิก →",
+                        "weight": "bold",
+                        "align": "center",
+                        "gravity": "center",
+                        "color": "#3399ff"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "โพสต์ที่ 4 คลิก →",
+                        "weight": "bold",
+                        "align": "center",
+                        "gravity": "center",
+                        "color": "#3399ff"
+                      }
+                    ]
+                  }
+                ],
+                "spacing": "md",
+                "margin": "lg"
+              }
+            ]
+          }
+        ],
+        "paddingAll": "xs"
+      }
+    ],
+    "margin": "xs",
+    "paddingAll": "xs"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "separator",
+        "color": "#000000"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ขั้นตอนที่ 2 คลิก",
+            "flex": 17,
+            "color": "#000000",
+            "size": "md",
+            "weight": "bold",
+            "wrap": false,
+            "gravity": "center"
+          },
+          {
+            "type": "image",
+            "url": "https://vos.line-scdn.net/service-notifier/footer_go_btn.png",
+            "flex": 1,
+            "size": "md"
+          }
+        ],
+        "flex": 1,
+        "spacing": "md",
+        "margin": "md"
+      }
+    ]
+  }
+}
